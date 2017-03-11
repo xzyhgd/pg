@@ -1,2 +1,3 @@
 # pg
-program
+这里是我做过的一些项目Ball是一个基于HTML5做的一个网页,使用canvas做的色彩缤纷的小球球打碰撞
+heart CSS 是用SCSS和CSS3做的仿 Twitter的一个爱心按钮
